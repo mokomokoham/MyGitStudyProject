@@ -1,5 +1,3 @@
-pugya
+we are pugya
 
-are you pugya ?
-
-yes pugya !!!
+are you pugya too ?
